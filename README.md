@@ -45,6 +45,6 @@ The dataset includes features such as:
 
 - Model accuracy: 97%
 - Top indicators of churn: Contract type, Monthly Charges, Tenure
-<img width="1365" height="767" alt="Screenshot 2025-05-30 004859" src="https://github.com/user-attachments/assets/d757dd79-16e8-43fc-92eb-df5fc28d5beb" />
+<img width="1365" height="614" alt="Screenshot 2025-05-30 004859" src="https://github.com/user-attachments/assets/ca53229f-fd23-44f9-805f-38a473fda798" />
 
 
